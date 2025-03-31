@@ -1,4 +1,4 @@
-# ¡Bienvenido!, Soy Carlos 👋
+# ¡Bienvenido! Soy Carlos 👋
 
 ## 🚀 About Me
 Soy desarrollador de software, actividad por la que siento una gran pasión y disfrute. Mi enfoque en este área es el de asegurarme que las soluciones en las que trabajo siempre sean robustas, eficientes, escalables y de alto rendimiento.
